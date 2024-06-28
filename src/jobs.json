@@ -1,0 +1,86 @@
+[
+  {
+      "id": "1",
+      "title": "Classic Spaghetti Carbonara",
+      "type": "Dinner",
+      "description": "A quick and easy Italian pasta dish made with eggs, cheese, pancetta, and pepper. Perfect for a weeknight dinner.",
+      "location": "Italy",
+      "salary": "20 minutes",
+      "company": {
+          "name": "Italian Cuisine",
+          "description": "Italian Cuisine is dedicated to bringing the rich and diverse flavors of Italy to your kitchen. Our recipes are crafted to give you an authentic Italian dining experience.",
+          "contactEmail": "contact@italiancuisine.com",
+          "contactPhone": "555-555-5555"
+      }
+  },
+  {
+      "id": "2",
+      "title": "Vegetarian Tacos",
+      "type": "Lunch",
+      "location": "Mexico",
+      "description": "Delicious and healthy vegetarian tacos packed with flavor and fresh ingredients. Perfect for a light and satisfying lunch.",
+      "salary": "30 minutes",
+      "company": {
+          "name": "Mexican Delights",
+          "description": "Mexican Delights specializes in authentic Mexican recipes that are both delicious and easy to make. Our mission is to bring the vibrant flavors of Mexico to your home.",
+          "contactEmail": "contact@mexicandelights.com",
+          "contactPhone": "555-555-5555"
+      }
+  },
+  {
+      "id": "3",
+      "title": "Chocolate Chip Cookies",
+      "type": "Dessert",
+      "location": "USA",
+      "description": "Classic chocolate chip cookies that are crispy on the edges and chewy in the center. A favorite treat for all ages.",
+      "salary": "25 minutes",
+      "company": {
+          "name": "American Sweets",
+          "description": "American Sweets brings you the best of American desserts, from cookies to cakes and everything in between. Our recipes are perfect for satisfying your sweet tooth.",
+          "contactEmail": "contact@americansweets.com",
+          "contactPhone": "555-555-5555"
+      }
+  },
+  {
+      "id": "4",
+      "title": "Sushi Rolls",
+      "type": "Snack",
+      "description": "Homemade sushi rolls filled with fresh fish and vegetables. A fun and healthy snack that is perfect for any occasion.",
+      "location": "Japan",
+      "salary": "45 minutes",
+      "company": {
+          "name": "Japanese Delicacies",
+          "description": "Japanese Delicacies offers a wide range of authentic Japanese recipes, from sushi to ramen. Our recipes are designed to bring the unique flavors of Japan to your kitchen.",
+          "contactEmail": "contact@japanesedelicacies.com",
+          "contactPhone": "555-555-5555"
+      }
+  },
+  {
+      "id": "5",
+      "title": "Beef Stroganoff",
+      "type": "Dinner",
+      "description": "A hearty and creamy beef stroganoff that is perfect for a comforting dinner. Serve it over egg noodles for a complete meal.",
+      "location": "Russia",
+      "salary": "40 minutes",
+      "company": {
+          "name": "Russian Eats",
+          "description": "Russian Eats provides authentic Russian recipes that are rich in flavor and tradition. Our dishes are perfect for those looking to explore the culinary heritage of Russia.",
+          "contactEmail": "contact@russianeats.com",
+          "contactPhone": "555-555-5555"
+      }
+  },
+  {
+      "id": "6",
+      "title": "Vegan Buddha Bowl",
+      "type": "Lunch",
+      "description": "A nourishing and colorful vegan Buddha bowl packed with fresh vegetables, grains, and a flavorful dressing. Perfect for a healthy lunch.",
+      "location": "Global",
+      "salary": "30 minutes",
+      "company": {
+          "name": "Healthy Eats",
+          "description": "Healthy Eats focuses on providing recipes that are both delicious and nutritious. Our goal is to make healthy eating accessible and enjoyable for everyone.",
+          "contactEmail": "contact@healthyeats.com",
+          "contactPhone": "555-555-5555"
+      }
+  }
+]
